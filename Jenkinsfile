@@ -7,7 +7,7 @@ node {
     //first 'There !'
     script {
     MyClass obj = new MyClass()
-    obj.function()
+    obj.function("AI")
     }
   }
 }
