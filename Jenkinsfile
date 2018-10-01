@@ -6,8 +6,8 @@ node {
     echo 'I am saying hello again and again'
     //first 'There !'
     script {
-    first obj = new org.first()
-    obj.function("AI")
+    first obj = new first()
+    obj.func("AI")
     }
   }
 }
